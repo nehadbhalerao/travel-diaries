@@ -1,0 +1,200 @@
+{
+"type":"FeatureCollection",
+"features":[
+{
+"type":"Feature",
+"properties":{
+"name":"Eyre Square",
+"city":"Galway",
+"order":1,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Galway_1.jpg",
+"images/ireland2025/Galway_2.jpg",
+"images/ireland2025/Galway_3.jpg",
+"images/ireland2025/Galway_7.jpg",
+"images/ireland2025/Galway_8.jpeg",
+"images/ireland2025/Galway_9.jpg",
+"images/ireland2025/Galway_10.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-9.049181787409578,53.27439889288926]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"University of Galway",
+"city":"Galway",
+"order":2,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Galway_4.jpg",
+"images/ireland2025/Galway_5.jpg",
+"images/ireland2025/Galway_6.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-9.06203943299515,53.277751085025315]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Enroute Clifden",
+"city":"Clifden",
+"order":3,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Clifden_1.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-9.572519105977438,53.451450524206976]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Kylemore Abbey",
+"city":"Kylemore Abbey",
+"order":4,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/KylemoreAbbey_1.jpg",
+"images/ireland2025/KylemoreAbbey_2.jpg",
+"images/ireland2025/KylemoreAbbey_3.png",
+"images/ireland2025/KylemoreAbbey_4.jpg",
+"images/ireland2025/KylemoreAbbey_5.jpg",
+"images/ireland2025/KylemoreAbbey_6.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-9.8891925672185,53.56165916591055]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Limerick Train Station",
+"city":"Limerick",
+"order":5,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Limerick_1.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-8.623490314678413,52.65847523041031]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Gap of Dunloe",
+"city":"Kerry",
+"order":6,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Kerry_1.jpg",
+"images/ireland2025/Kerry_2.jpg",
+"images/ireland2025/Kerry_3.jpg",
+"images/ireland2025/Kerry_4.jpg",
+"images/ireland2025/Kerry_5.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-9.643996258655347,51.99464476327757]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Sean's Bar",
+"city":"Athlone",
+"order":7,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Athlone_1.jpg",
+"images/ireland2025/Athlone_2.jpg",
+"images/ireland2025/Athlone_3.jpg",
+"images/ireland2025/Athlone_4.jpg",
+"images/ireland2025/Athlone_5.jpg",
+"images/ireland2025/Athlone_6.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-7.942352250933302,53.42267192023977]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Kildare Village",
+"city":"Kildare Village",
+"order":8,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/KildareVillage_1.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-6.91697532091981,53.154377536136515]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Dublin Castle",
+"city":"Dublin",
+"order":9,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/DublinCastle_1.jpg",
+"images/ireland2025/DublinCastle_2.jpg",
+"images/ireland2025/DublinCastle_3.jpg",
+"images/ireland2025/DublinCastle_4.jpg",
+"images/ireland2025/DublinCastle_5.jpg",
+"images/ireland2025/DublinCastle_6.jpg",
+"images/ireland2025/DublinCastle_7.jpg",
+"images/ireland2025/DublinCastle_8.jpg",
+"images/ireland2025/DublinCastle_9.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-6.267677159617874,53.34341100289154]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"The Temple Bar Pub",
+"city":"Dublin",
+"order":10,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/TempleBar_1.jpg",
+"images/ireland2025/TempleBar_2.jpg",
+"images/ireland2025/TempleBar_3.jpg",
+"images/ireland2025/TempleBar_4.jpg",
+"images/ireland2025/TempleBar_5.jpg",
+"images/ireland2025/TempleBar_6.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-6.264147267968955,53.34551380729051]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Dublin Statues",
+"city":"Dublin",
+"order":11,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Dublin_1.jpg",
+"images/ireland2025/Dublin_2.jpg",
+"images/ireland2025/Dublin_4.jpg",
+"images/ireland2025/Dublin_5.jpg",
+"images/ireland2025/Dublin_6.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-6.263306098785236,53.346635724361704]}
+},
+
+{
+"type":"Feature",
+"properties":{
+"name":"Dublin Airport",
+"city":"Dublin",
+"order":12,
+"trip":"Ireland 2025",
+"media":[
+"images/ireland2025/Dublin_Airport_1.jpg"
+]},
+"geometry": {"type":"Point","coordinates":[-6.240289488490417,53.42585711259748]}
+}
+
+]
+}

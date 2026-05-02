@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Travel Diaries</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+
+  <!-- Header -->
+  <div id="header">
+    <div class="header-left">
+      <img src="images/profile_display.jpg" class="profile-pic" alt="Neha" />
+      <div>
+        <div class="header-title">Travel Diaries</div>
+        <div class="header-sub">Places, Stories, Moments!</div>
+        <div class="header-sub">by Neha</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Buttons -->
+  <button id="homeBtn">🏠</button>
+  <button id="toggleTheme">🌙</button>
+
+  <!-- Map -->
+  <div id="map"></div>
+
+  <!-- Photo panel -->
+  <div id="photoPanel">
+    <div class="panel-handle"></div>
+    <div class="panel-content">
+      <div id="panelTitle">Location</div>
+      <div id="photoGrid"></div>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+  <!-- Scripts -->
+  <script src="js/trips.js"></script>
+  <script src="js/state.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/ui.js"></script>
+
+</body>
+</html>
